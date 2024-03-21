@@ -7,7 +7,7 @@
 [Ссылка на конфиг](https://github.com/Lex-Chaos/claster-balance-hw/blob/main/files/haproxy.cfg)
 
 Балансировка
-![Балансировка]((https://github.com/Lex-Chaos/disasters_recovery_and_keepalived-hw/blob/main/img/Task1-roundrobin_balance.png)
+![Балансировка](https://github.com/Lex-Chaos/disasters_recovery_and_keepalived-hw/blob/main/img/Task1-roundrobin_balance.png)
 
 ---
 
