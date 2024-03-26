@@ -29,9 +29,17 @@
 
 ---
 
-### Задание 3
+### Задание 3*
 
 Ответ:
+
+Файл [haproxy.cfg](https://github.com/Lex-Chaos/claster-balance-hw/blob/main/files/Task3_haproxy.cfg)
+
+Файл в каталоге /etc/nginx/conf.d [task.conf](https://github.com/Lex-Chaos/claster-balance-hw/blob/main/files/Task3_nginx_test.conf)
+
+Файл nginx.conf дефолтный, без изменений.
+
+Балансировка и загрузка *.jpg ![Балансировка и скачивание](https://github.com/Lex-Chaos/claster-balance-hw/blob/main/img/Task3_balance_and_jpg.png)
 
 ### Задание 4*
 
