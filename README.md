@@ -44,3 +44,7 @@
 ### Задание 4*
 
 Ответ:
+
+Файл [haproxy.cfg](https://github.com/Lex-Chaos/claster-balance-hw/blob/main/files/Task4_haproxy.cfg)
+
+Балансировка от разных фронтэндов к разным бэкэндам![Балансировка](https://github.com/Lex-Chaos/claster-balance-hw/blob/main/img/Task4_backend_and_frontend.png)
